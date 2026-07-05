@@ -1,0 +1,16 @@
+Parameter,Treatment,N,Baseline Mean,Week 24 Mean,Change Mean,Change SD
+Systolic Blood Pressure (mmHg),Placebo,59,138.1,135.8,-2.27,14.65
+Systolic Blood Pressure (mmHg),Xanomeline Low Dose,25,134.0,134.4,0.44,17.64
+Systolic Blood Pressure (mmHg),Xanomeline High Dose,28,139.2,133.0,-6.21,17.54
+Diastolic Blood Pressure (mmHg),Placebo,59,73.9,72.9,-1.05,10.91
+Diastolic Blood Pressure (mmHg),Xanomeline Low Dose,25,76.6,75.8,-0.80,8.00
+Diastolic Blood Pressure (mmHg),Xanomeline High Dose,28,76.4,74.5,-1.93,9.37
+Pulse Rate (beats/min),Placebo,59,69.3,69.1,-0.24,8.70
+Pulse Rate (beats/min),Xanomeline Low Dose,25,70.1,67.9,-2.20,10.58
+Pulse Rate (beats/min),Xanomeline High Dose,28,72.2,70.6,-1.61,11.44
+Temperature (C),Placebo,57,36.5,36.6,0.08,0.55
+Temperature (C),Xanomeline Low Dose,24,36.6,36.6,0.08,0.40
+Temperature (C),Xanomeline High Dose,27,36.8,36.7,-0.03,0.48
+Weight (kg),Placebo,59,63.1,63.2,0.15,2.30
+Weight (kg),Xanomeline Low Dose,25,67.2,66.8,-0.43,2.08
+Weight (kg),Xanomeline High Dose,28,69.3,70.2,0.92,6.67
