@@ -1,0 +1,11 @@
+# App theme. Visual only — does not affect any data logic.
+[theme]
+base = "light"
+primaryColor = "#1C6E8C"
+backgroundColor = "#F6F8FB"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#1E2A38"
+font = "sans serif"
+
+[server]
+runOnSave = true
